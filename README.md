@@ -1,4 +1,4 @@
-# Brushless DC Motor Controller using Microchip dspic33ep512mc80
+# Brushless DC Motor Controller using Microchip dspic33ep512mc806
 
 The codes in this repository are the source code used to implement an open-loop motor speed control of a Brushless DC Motor. This is the motor controller we designed and fabricated for Liwanag, the entry of the University of the Philippines for the Shell Eco-Marathon Asia 2016 under Urban Concept – Battery Electric Category
 
